@@ -1,0 +1,175 @@
+AI Literacy Course Syllabus (With Hands-on AI Tools)
+📌 Course Level: Beginner
+📌 Duration: 8–10 weeks
+📌 Delivery Mode: Online/Hybrid/In-Person
+📌 Prerequisites: None
+
+Week 1: Introduction to AI & Large Language Models (LLMs)
+📌 Topics:
+
+What is Artificial Intelligence?
+
+Overview of AI subfields (Machine Learning, Deep Learning, NLP, Computer Vision)
+
+Large Language Models (LLMs) and Generative AI
+
+How LLMs work (Transformer models, tokens, fine-tuning)
+
+🛠 Hands-on AI Tools & Activities:
+
+ChatGPT / Claude / Gemini (Google Bard) – Experiment with AI chatbots
+
+OpenAI Playground – Explore different model behaviors
+
+Hugging Face Models (GPT-2, T5, BERT, etc.) – Try out open-source LLMs
+
+AI-powered search (Perplexity AI, Bing Copilot) – Compare AI-assisted search results
+
+Week 2: AI-Powered Text Generation & Editing
+📌 Topics:
+
+How AI generates and edits text
+
+AI applications in content creation (writing, summarization, translation)
+
+Ethical concerns (plagiarism, misinformation, biases)
+
+🛠 Hands-on AI Tools & Activities:
+
+Notion AI / Grammarly AI / QuillBot – AI for writing assistance
+
+DeepL AI / Google Translate – AI for multilingual translation
+
+Jasper AI / Copy.ai – AI-powered content generation
+
+AI Storytelling (Sudowrite, NovelAI, ChatGPT for fiction)
+
+Week 3: AI for Image Generation & Editing
+📌 Topics:
+
+How AI generates images (Diffusion models, GANs)
+
+Ethical concerns (deepfakes, AI bias in image generation)
+
+Use cases in art, marketing, and design
+
+🛠 Hands-on AI Tools & Activities:
+
+DALL·E / Midjourney / Stable Diffusion – AI-generated images
+
+Runway ML / Leonardo AI – Advanced AI-powered image editing
+
+Adobe Firefly / Canva AI – AI for design and branding
+
+FaceSwap AI / Remini – AI image enhancement and deepfake detection
+
+Week 4: AI for Video Creation & Editing
+📌 Topics:
+
+AI in video synthesis and animation
+
+AI-powered video editing
+
+Ethical considerations (AI-generated actors, deepfake videos)
+
+🛠 Hands-on AI Tools & Activities:
+
+Synthesia / HeyGen – AI-generated avatars & video creation
+
+Runway ML / Pika Labs – AI-enhanced video editing and motion graphics
+
+Kaiber AI / Deep Nostalgia – AI-powered video animation
+
+Deepfake Detection (Sensity AI, Deepware Scanner) – Identifying manipulated content
+
+Week 5: AI for Audio & Music Generation
+📌 Topics:
+
+AI in speech synthesis and text-to-speech (TTS)
+
+AI-generated music and sound design
+
+Voice cloning and ethical concerns
+
+🛠 Hands-on AI Tools & Activities:
+
+ElevenLabs / Murf AI / PlayHT – AI-powered voice generation
+
+Voicify AI / Resemble AI – AI voice cloning
+
+AIVA / Soundraw / Boomy – AI-generated music
+
+Adobe Podcast AI / Descript – AI-powered audio enhancement and transcription
+
+Week 6: AI for Productivity & Workflows
+📌 Topics:
+
+AI tools for business, productivity, and automation
+
+AI-assisted note-taking and summarization
+
+AI in customer service and chatbots
+
+🛠 Hands-on AI Tools & Activities:
+
+Notion AI / Mem AI – AI for productivity and note-taking
+
+Otter AI / Fireflies AI – AI-powered meeting transcription
+
+Chatbot Builders (ManyChat, Drift AI, Tidio AI) – Creating AI-powered customer service bots
+
+Zapier AI / Microsoft Copilot – AI-driven automation
+
+Week 7: AI Ethics, Bias, and Safety
+📌 Topics:
+
+Ethical concerns in AI (bias, misinformation, privacy)
+
+AI regulations and policies
+
+Transparency and explainability in AI
+
+🛠 Hands-on AI Tools & Activities:
+
+AI Bias Detection (IBM AI Fairness 360, Google’s What-If Tool)
+
+Deepfake Detection Tools (Sensity AI, Microsoft Video Authenticator)
+
+Explainable AI (LIME, SHAP, Hugging Face Interpret)
+
+Week 8: AI in Society & The Future of AI
+📌 Topics:
+
+AI’s impact on education, healthcare, and creative industries
+
+AI and the future of work
+
+Staying updated with AI trends and developments
+
+🛠 Hands-on AI Tools & Activities:
+
+Google DeepMind’s AlphaFold – AI in science
+
+AI Art Analysis (Deep Dream Generator, Runway AI)
+
+AI-powered data analysis (Tableau AI, OpenAI Codex)
+
+Week 9-10: Final Project & AI Portfolio Development
+📌 Final Project Options:
+
+Create an AI-generated blog, video, or music project
+
+Develop an AI chatbot or workflow automation for a specific task
+
+Write an AI ethics policy for a chosen industry
+
+🛠 AI Tools for Final Project:
+
+Use ChatGPT, DALL·E, Synthesia, Runway ML, ElevenLabs, Notion AI, etc.
+
+Build a simple AI chatbot or workflow automation using ManyChat, Zapier, or Drift AI
+
+Final Notes
+✅ This syllabus ensures theory + hands-on AI tool usage for practical AI literacy.
+✅ Covers LLMs, image generation, video, audio, automation, ethics, and policy.
+✅ Ideal for students, educators, professionals, and businesses.
